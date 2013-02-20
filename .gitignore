@@ -1,0 +1,11 @@
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+
+*.class
+
+bin
+gen
